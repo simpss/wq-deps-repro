@@ -1,0 +1,5 @@
+C:\Users\siim\Documents\Visual Studio 2017\Projects\tv-optimus\dot-net-services\wq-deps-repro\bin\Debug\wq-deps-repro.dll
+C:\Users\siim\Documents\Visual Studio 2017\Projects\tv-optimus\dot-net-services\wq-deps-repro\bin\Debug\wq-deps-repro.pdb
+C:\Users\siim\Documents\Visual Studio 2017\Projects\tv-optimus\dot-net-services\wq-deps-repro\obj\Debug\wq-deps-repro.csprojResolveAssemblyReference.cache
+C:\Users\siim\Documents\Visual Studio 2017\Projects\tv-optimus\dot-net-services\wq-deps-repro\obj\Debug\wq-deps-repro.dll
+C:\Users\siim\Documents\Visual Studio 2017\Projects\tv-optimus\dot-net-services\wq-deps-repro\obj\Debug\wq-deps-repro.pdb
